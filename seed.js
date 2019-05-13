@@ -15,7 +15,7 @@ window.Seed = (function () {
       description: 'Зарабатывайте очки, когда ваши любимые политики принимают законы.',
       url: '#',
       votes: 11,
-      avatar: '.images/avatars/kristy.png',
+      avatar: './images/avatars/kristy.png',
       submissionImage: './images/submissions/image-rose.png',
     },
     {
